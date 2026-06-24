@@ -8,7 +8,8 @@ Static website for NEPA Packaging Solutions LLC.
 - `styles.css` - responsive styling
 - `script.js` - mobile navigation and footer year
 - `thank-you.html` - form confirmation page
-- `assets/mark.svg` - simple temporary brand mark
+- `assets/nepa-packaging-solutions-logo.png` - cropped website logo
+- `assets/nepa-packaging-solutions-logo-original.png` - original uploaded logo
 
 ## Netlify settings
 
