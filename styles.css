@@ -150,11 +150,11 @@ a { color: inherit; }
 
 .button-primary {
   color: #ffffff;
-  background: var(--accent);
-  box-shadow: 0 12px 24px rgba(208, 138, 45, 0.25);
+  background: var(--accent-dark);
+  box-shadow: 0 12px 24px rgba(167, 103, 25, 0.25);
 }
 
-.button-primary:hover { background: var(--accent-dark); }
+.button-primary:hover { background: #8a5514; }
 
 .button-secondary {
   color: var(--ink);
