@@ -10,6 +10,7 @@ Static website for NEPA Packaging Solutions LLC.
 - `thank-you.html` - form confirmation page
 - `assets/nepa-packaging-solutions-logo.png` - cropped website logo
 - `assets/nepa-packaging-solutions-logo-original.png` - original uploaded logo
+- `assets/nepa-packaging-solutions-watermark.png` - transparent watermark logo
 
 ## Netlify settings
 
